@@ -1,10 +1,10 @@
 # 1. Name:
 #      M. Scott O'Connor
-# 2. Assignment Name:
-#      Lab 01: Guessing Game
-# 3. Assignment Description:
+# 2. Project Name:
+#      Guessing Game
+# 3. Project Description:
 #      A game where the user has to guess a number between 1 and a user specified upper bound
-# 4. What was the hardest part? Be as specific as possible.
+# 4. Difficulties:
 #      This was my first time using python, so the hardest part was getting the syntax right.
 #      In general it was actually simpler than the C based languages that I am used to, but
 #      it still isn't what I'm used to. I had particular trouble with the automatic assignment 
@@ -16,7 +16,7 @@
 #      issue was deciding if I wanted to include the user's upper bound in the possible answers 
 #      or not as I could not find a section in the assignment that specified explicitly. However, 
 #      I discovered that the first test case would not work without including the upper bound.
-# 5. How long did it take for you to complete the assignment?
+# 5. How long did it take for you to complete the project (including reserch)?
 #      2.5 hrs
 
 import random
